@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "bumpd",
   "version": "1.0.0",
-  "description": "Linktree Clone",
+  "description": "Bumpd",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
